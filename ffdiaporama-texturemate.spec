@@ -5,7 +5,7 @@ Version:        1.0
 Release:        1.20140125
 Summary:        Background textures for ffDiaporama
 License:        CC-BY
-URL:            http://www.texturemate.com/
+URL:            https://www.texturemate.com/
 Group:          Graphics
 BuildArch:      noarch
 Source0:        http://download.tuxfamily.org/ffdiaporama/Packages/Stable/%{oname}_1.0.2014.0125.tar.gz
